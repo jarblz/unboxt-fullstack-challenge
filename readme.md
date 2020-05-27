@@ -1,6 +1,6 @@
 # UnboXt Taco Shop.  Build a Taco Ordering API!  Yum!
 
-## What We Look For In A Candidate
+## What We Are Looking For
 
   1. Knowledge of Ruby on Rails.
   2. Familiarity with Javascript.
@@ -18,6 +18,8 @@
   1. `GET /tacos` - Returns a list of all tacos in the database
   2. `POST /tacos` - Creates a taco with the given parameters
   3. `DELETE /tacos/:id` - Removes the taco with this ID from the database
+  4. Add RSpec tests for the controller and model.
+   
 
 #### Step 3: Upload your completed solution to a public [Github](https://www.heroku.com/) repository so we can review.
 
@@ -25,8 +27,7 @@
 
 ## Bonus Features:
 
-  1.  Add RSpec tests for the controller and model.
-  2.  Add Validations to the Taco model.
+  1.  Add Validations to the Taco model.
   3.  Add another meat.
   4.  Add another side.
   5.  Add your favorite gem to the project and improve on this application.
