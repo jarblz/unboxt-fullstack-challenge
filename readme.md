@@ -20,8 +20,9 @@
   3. `DELETE /tacos/:id` - Removes the taco with this ID from the database
   4. Add RSpec tests for the controller and model.
 
-#### Step 3: Get the page looking ```as close as possible``` to the design shown in the file ```mockupp.png```
-  This is obviously not a good design, but this is a test to see if you can take a high fidelity mockup and make the app your working on look like said mockup.
+#### Step 3: Get the page looking ```as close as possible``` to the design shown in the file ```mockup.png```
+  1. This is obviously not a good design, but this is a test to see if you can take a high fidelity mockup and make the app your working on look like said mockup.
+  2. the design should match at 1080px only, don't worry about other breakpoints
 
 #### Step 4: Upload your completed solution to a public [Github](https://www.heroku.com/) repository so we can review.
 
@@ -30,9 +31,7 @@
 ## Bonus Features:
 
   1.  Add Validations to the Taco model.
-  3.  Add another meat.
-  4.  Add another side.
-  5.  Add your favorite gem to the project and improve on this application.
+  2.  Make the page mobile responsive down to 425px
 
 ## Known Issues
   * The HTML file will not work if you load it in your browser as a file (e.g. file://).
