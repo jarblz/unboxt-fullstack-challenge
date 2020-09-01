@@ -21,7 +21,7 @@
   4. Add RSpec tests for the controller and model.
 
 #### Step 3: Get the page looking ```as close as possible``` to the design shown in the file ```mockup.png```
-  1. This is obviously not a good design, but this is a test to see if you can take a high fidelity mockup and make the app your working on look like said mockup.
+  1. This is obviously not a good design, but this is a test to see if you can take a high fidelity mockup and make a page look like said mockup.
   2. the design should match at 1080px only, don't worry about other breakpoints
 
 #### Step 4: Upload your completed solution to a public [Github](https://www.heroku.com/) repository so we can review.
