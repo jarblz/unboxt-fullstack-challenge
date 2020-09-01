@@ -19,11 +19,13 @@
   2. `POST /tacos` - Creates a taco with the given parameters
   3. `DELETE /tacos/:id` - Removes the taco with this ID from the database
   4. Add RSpec tests for the controller and model.
-   
 
-#### Step 3: Upload your completed solution to a public [Github](https://www.heroku.com/) repository so we can review.
+#### Step 3: Get the page looking ```as close as possible``` to the design shown in the file ```mockupp.png```
+  This is obviously not a good design, but this is a test to see if you can take a high fidelity mockup and make the app your working on look like said mockup.
 
-#### Step 4: Host the working solution on [Heroku](https://www.heroku.com/) and send the Heroku App URL to us for review.
+#### Step 4: Upload your completed solution to a public [Github](https://www.heroku.com/) repository so we can review.
+
+#### Step 5: Host the working solution on [Heroku](https://www.heroku.com/) and send the Heroku App URL to us for review.
 
 ## Bonus Features:
 
